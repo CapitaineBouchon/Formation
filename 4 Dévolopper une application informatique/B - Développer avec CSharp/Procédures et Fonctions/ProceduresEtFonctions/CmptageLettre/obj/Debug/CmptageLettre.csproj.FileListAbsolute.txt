@@ -1,0 +1,6 @@
+J:\Formation\4 Dévolopper une application informatique\B - Développer avec CSharp\Exercices\Procédures et Fonctions\ProceduresEtFonctions\CmptageLettre\bin\Debug\CmptageLettre.exe.config
+J:\Formation\4 Dévolopper une application informatique\B - Développer avec CSharp\Exercices\Procédures et Fonctions\ProceduresEtFonctions\CmptageLettre\bin\Debug\CmptageLettre.exe
+J:\Formation\4 Dévolopper une application informatique\B - Développer avec CSharp\Exercices\Procédures et Fonctions\ProceduresEtFonctions\CmptageLettre\bin\Debug\CmptageLettre.pdb
+J:\Formation\4 Dévolopper une application informatique\B - Développer avec CSharp\Exercices\Procédures et Fonctions\ProceduresEtFonctions\CmptageLettre\obj\Debug\CmptageLettre.csprojResolveAssemblyReference.cache
+J:\Formation\4 Dévolopper une application informatique\B - Développer avec CSharp\Exercices\Procédures et Fonctions\ProceduresEtFonctions\CmptageLettre\obj\Debug\CmptageLettre.exe
+J:\Formation\4 Dévolopper une application informatique\B - Développer avec CSharp\Exercices\Procédures et Fonctions\ProceduresEtFonctions\CmptageLettre\obj\Debug\CmptageLettre.pdb

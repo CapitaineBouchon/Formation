@@ -1,0 +1,15 @@
+J:\Formation\4 Dévolopper une application informatique\B - Développer avec CSharp\Exercices\Tableaux\Exercice05\bin\Debug\Exercice05.exe.config
+J:\Formation\4 Dévolopper une application informatique\B - Développer avec CSharp\Exercices\Tableaux\Exercice05\bin\Debug\Exercice05.exe
+J:\Formation\4 Dévolopper une application informatique\B - Développer avec CSharp\Exercices\Tableaux\Exercice05\bin\Debug\Exercice05.pdb
+J:\Formation\4 Dévolopper une application informatique\B - Développer avec CSharp\Exercices\Tableaux\Exercice05\obj\Debug\Exercice05.csprojResolveAssemblyReference.cache
+J:\Formation\4 Dévolopper une application informatique\B - Développer avec CSharp\Exercices\Tableaux\Exercice05\obj\Debug\Exercice05.exe
+J:\Formation\4 Dévolopper une application informatique\B - Développer avec CSharp\Exercices\Tableaux\Exercice05\obj\Debug\Exercice05.pdb
+J:\Formation\4 Dévolopper une application informatique\B - Développer avec CSharp\Tableaux\Exercice05\bin\Debug\Exercice05.exe.config
+J:\Formation\4 Dévolopper une application informatique\B - Développer avec CSharp\Tableaux\Exercice05\obj\Debug\Exercice05.exe
+J:\Formation\4 Dévolopper une application informatique\B - Développer avec CSharp\Tableaux\Exercice05\obj\Debug\Exercice05.pdb
+J:\Formation\4 Dévolopper une application informatique\B - Développer avec CSharp\Tableaux\Exercice05\bin\Debug\Exercice05.exe
+J:\Formation\4 Dévolopper une application informatique\B - Développer avec CSharp\Tableaux\Exercice05\bin\Debug\Exercice05.pdb
+J:\Formation\4 Dévolopper une application informatique\B - Développer avec CSharp\Tableaux\Exercice05\obj\Debug\Exercice05.csprojResolveAssemblyReference.cache
+E:\Formation\4 Dévolopper une application informatique\B - Développer avec CSharp\Tableaux\Exercice05\bin\Debug\Exercice05.exe.config
+E:\Formation\4 Dévolopper une application informatique\B - Développer avec CSharp\Tableaux\Exercice05\obj\Debug\Exercice05.exe
+E:\Formation\4 Dévolopper une application informatique\B - Développer avec CSharp\Tableaux\Exercice05\obj\Debug\Exercice05.pdb

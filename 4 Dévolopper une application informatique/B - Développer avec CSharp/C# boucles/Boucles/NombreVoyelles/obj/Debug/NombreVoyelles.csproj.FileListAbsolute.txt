@@ -1,0 +1,6 @@
+J:\Formation\4 Dévolopper une application informatique\B - Développer avec CSharp\Exercices\C# boucles\Boucles\NombreVoyelles\bin\Debug\NombreVoyelles.exe.config
+J:\Formation\4 Dévolopper une application informatique\B - Développer avec CSharp\Exercices\C# boucles\Boucles\NombreVoyelles\bin\Debug\NombreVoyelles.exe
+J:\Formation\4 Dévolopper une application informatique\B - Développer avec CSharp\Exercices\C# boucles\Boucles\NombreVoyelles\bin\Debug\NombreVoyelles.pdb
+J:\Formation\4 Dévolopper une application informatique\B - Développer avec CSharp\Exercices\C# boucles\Boucles\NombreVoyelles\obj\Debug\NombreVoyelles.csprojResolveAssemblyReference.cache
+J:\Formation\4 Dévolopper une application informatique\B - Développer avec CSharp\Exercices\C# boucles\Boucles\NombreVoyelles\obj\Debug\NombreVoyelles.exe
+J:\Formation\4 Dévolopper une application informatique\B - Développer avec CSharp\Exercices\C# boucles\Boucles\NombreVoyelles\obj\Debug\NombreVoyelles.pdb

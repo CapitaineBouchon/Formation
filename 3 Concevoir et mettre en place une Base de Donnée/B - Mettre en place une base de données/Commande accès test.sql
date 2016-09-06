@@ -1,0 +1,18 @@
+GRANT INSERT ON entcom TO Util1
+GRANT INSERT ON fournis TO Util1
+GRANT INSERT ON ligcom TO Util1
+GRANT INSERT ON produit TO Util1
+GRANT INSERT ON vente TO Util1
+
+GRANT SELECT ON entcom TO Util1
+GRANT SELECT ON fournis TO Util1
+GRANT SELECT ON ligcom TO Util1
+GRANT SELECT ON produit TO Util1
+GRANT SELECT ON vente TO Util1
+
+DENY DELETE ON entcom TO Util1
+DENY DELETE ON fournis TO Util1
+DENY DELETE ON ligcom TO Util1
+DENY DELETE ON produit TO Util1
+DENY DELETE ON vente TO Util1
+

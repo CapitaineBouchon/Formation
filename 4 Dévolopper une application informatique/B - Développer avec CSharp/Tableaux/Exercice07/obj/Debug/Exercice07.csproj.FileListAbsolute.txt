@@ -1,0 +1,12 @@
+J:\Formation\4 Dévolopper une application informatique\B - Développer avec CSharp\Exercices\Tableaux\Exercice07\bin\Debug\Exercice07.exe.config
+J:\Formation\4 Dévolopper une application informatique\B - Développer avec CSharp\Exercices\Tableaux\Exercice07\bin\Debug\Exercice07.exe
+J:\Formation\4 Dévolopper une application informatique\B - Développer avec CSharp\Exercices\Tableaux\Exercice07\bin\Debug\Exercice07.pdb
+J:\Formation\4 Dévolopper une application informatique\B - Développer avec CSharp\Exercices\Tableaux\Exercice07\obj\Debug\Exercice07.csprojResolveAssemblyReference.cache
+J:\Formation\4 Dévolopper une application informatique\B - Développer avec CSharp\Exercices\Tableaux\Exercice07\obj\Debug\Exercice07.exe
+J:\Formation\4 Dévolopper une application informatique\B - Développer avec CSharp\Exercices\Tableaux\Exercice07\obj\Debug\Exercice07.pdb
+J:\Formation\4 Dévolopper une application informatique\B - Développer avec CSharp\Tableaux\Exercice07\bin\Debug\Exercice07.exe.config
+J:\Formation\4 Dévolopper une application informatique\B - Développer avec CSharp\Tableaux\Exercice07\obj\Debug\Exercice07.exe
+J:\Formation\4 Dévolopper une application informatique\B - Développer avec CSharp\Tableaux\Exercice07\obj\Debug\Exercice07.pdb
+E:\Formation\4 Dévolopper une application informatique\B - Développer avec CSharp\Tableaux\Exercice07\bin\Debug\Exercice07.exe.config
+E:\Formation\4 Dévolopper une application informatique\B - Développer avec CSharp\Tableaux\Exercice07\obj\Debug\Exercice07.exe
+E:\Formation\4 Dévolopper une application informatique\B - Développer avec CSharp\Tableaux\Exercice07\obj\Debug\Exercice07.pdb

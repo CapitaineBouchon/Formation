@@ -1,0 +1,185 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<useCaseModelRoot xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" xmlns:dm1="http://schemas.microsoft.com/dsltools/Kernel" xmlns:dm2="http://schemas.microsoft.com/dsltools/Component" xmlns:dm3="http://schemas.microsoft.com/dsltools/Activity" xmlns:dm4="http://schemas.microsoft.com/dsltools/UseCase" xmlns:dm5="http://schemas.microsoft.com/dsltools/Interaction" xmlns:dm6="http://schemas.microsoft.com/dsltools/UmlModelLibrary" xmlns:dm7="http://schemas.microsoft.com/dsltools/UmlDiagrams" xmlns:dm8="http://schemas.microsoft.com/dsltools/ModelStore" xmlns:dm9="http://schemas.microsoft.com/dsltools/LogicalClassDesigner" xmlns:dm10="http://schemas.microsoft.com/dsltools/SimpleShapesModel" xmlns:dm11="http://schemas.microsoft.com/VisualStudio/TeamArchitect/SequenceDesigner" dslVersion="1.0.0.0" Id="4bb7d6c9-4fd8-4ea1-80db-031f44429e48" name="UseCase_Mediatheque" linkedPackageId="d556b1f5-c786-4bab-af9f-13509ae026d0" xmlns="http://schemas.microsoft.com/dsltools/UseCaseModel">
+  <profileInstances>
+    <packageHasProfileInstances Id="2dc80107-9816-49c9-8911-f1f96d1f1fc2">
+      <profileInstance Id="aefb839e-6d16-4e37-ad00-adc9576d4792" name="StandardProfileL2">
+        <elementDefinition Id="e34d544e-0fea-4ed6-ac5e-1b74119ac791" />
+      </profileInstance>
+      <elementDefinition Id="0caec977-1f8c-4ba3-a7db-8cc9ad9cc73b" />
+    </packageHasProfileInstances>
+    <packageHasProfileInstances Id="0575e3eb-1dea-4051-8dcc-60ec2a7ca783">
+      <profileInstance Id="a5185669-72e9-4ef6-bdef-e37200628a25" name="StandardProfileL3">
+        <elementDefinition Id="532ea607-fb19-44b8-8502-3351b05452be" />
+      </profileInstance>
+      <elementDefinition Id="29349502-908c-4fda-9054-c48619c59ed0" />
+    </packageHasProfileInstances>
+  </profileInstances>
+  <packagedElements>
+    <useCaseModelRootHasTypes>
+      <actor Id="2614fc2d-bb4a-4e19-aa2b-8118e7de9141" name="Usager" isAbstract="false" isLeaf="false">
+        <elementDefinition Id="500cbf22-4033-48db-b4a8-e8878014e93f" />
+        <targetEnds>
+          <association Id="397330f3-a841-4e4f-b2f2-b3936d26f4f3" isDerived="false" sourceEndRoleName="Usager" targetEndRoleName="Emprunte un document" isLeaf="false" isAbstract="false">
+            <useCaseMoniker Id="e610cff4-f435-4a35-b23d-393b1aa8796b" LastKnownName="Consulter la liste des documents" />
+            <relationshipOwnedElementsInternal>
+              <associationHasOwnedEnds>
+                <memberEnd Id="ff081adf-bc6b-4593-a39c-9026980f64c5" name="Usager" isLeaf="false" isStatic="false" isReadOnly="false" isDerived="false" isDerivedUnion="false" aggregation="None" isComposite="false" isNavigableOwned="false">
+                  <elementDefinition Id="ef2d7dec-5337-4b89-b398-32086bcfd506" />
+                </memberEnd>
+              </associationHasOwnedEnds>
+              <associationHasOwnedEnds>
+                <memberEnd Id="4130ccfe-3d63-4943-8587-73cc166c73a2" name="Emprunte un document" isLeaf="false" isStatic="false" isReadOnly="false" isDerived="false" isDerivedUnion="false" aggregation="None" isComposite="false">
+                  <elementDefinition Id="e563019b-64c5-453f-8ca0-0964c8a74942" />
+                </memberEnd>
+              </associationHasOwnedEnds>
+            </relationshipOwnedElementsInternal>
+            <elementDefinition Id="68e7c3ca-1565-47f9-b589-4bec42bf9313" />
+          </association>
+        </targetEnds>
+      </actor>
+    </useCaseModelRootHasTypes>
+    <useCaseModelRootHasTypes>
+      <actor Id="161b710f-6e6e-4dc6-a91a-dac1bca700f9" name="Employé" isAbstract="false" isLeaf="false">
+        <elementDefinition Id="23f41609-844f-41e8-a9f9-efaf947c3e27" />
+        <targetEnds>
+          <association Id="68e269b8-9fe4-495c-89fc-2f77277749fb" isDerived="false" sourceEndRoleName="Employé" targetEndRoleName="Enregistrer un nouveau document" isLeaf="false" isAbstract="false">
+            <useCaseMoniker Id="dd72641a-5a34-4423-aef0-750d7c1edf10" LastKnownName="Enregistrer un nouveau document" />
+            <relationshipOwnedElementsInternal>
+              <associationHasOwnedEnds>
+                <memberEnd Id="e59a697f-e7d7-4b37-96fc-96f75e4dff83" name="Employé" isLeaf="false" isStatic="false" isReadOnly="false" isDerived="false" isDerivedUnion="false" aggregation="None" isComposite="false" isNavigableOwned="false">
+                  <elementDefinition Id="df35f53c-09e5-4266-bb68-af74f44e80db" />
+                </memberEnd>
+              </associationHasOwnedEnds>
+              <associationHasOwnedEnds>
+                <memberEnd Id="f889a701-b7e4-4850-a062-8e9155c71259" name="Enregistrer un nouveau document" isLeaf="false" isStatic="false" isReadOnly="false" isDerived="false" isDerivedUnion="false" aggregation="None" isComposite="false">
+                  <elementDefinition Id="500ffc41-8258-4b42-b0c5-b781a69fd184" />
+                </memberEnd>
+              </associationHasOwnedEnds>
+            </relationshipOwnedElementsInternal>
+            <elementDefinition Id="99b52202-aecc-4b3c-9b1f-2a4ac76e2713" />
+          </association>
+          <association Id="efd58a31-33d2-4dfe-85ad-45bc72c22230" isDerived="false" sourceEndRoleName="Employé" targetEndRoleName="Modifier les fiches clients" isLeaf="false" isAbstract="false">
+            <useCaseMoniker Id="56c1b14f-8f65-464c-8d38-8f0b4ddd9ec2" LastKnownName="Modifier les fiches clients" />
+            <relationshipOwnedElementsInternal>
+              <associationHasOwnedEnds>
+                <memberEnd Id="943ab1eb-9362-4f55-95c3-ae8e5aba9e73" name="Employé" isLeaf="false" isStatic="false" isReadOnly="false" isDerived="false" isDerivedUnion="false" aggregation="None" isComposite="false" isNavigableOwned="false">
+                  <elementDefinition Id="204dcf6b-bc45-4dbb-93a1-9b5034cabfc2" />
+                </memberEnd>
+              </associationHasOwnedEnds>
+              <associationHasOwnedEnds>
+                <memberEnd Id="ee811a1c-52c4-4cb3-bab3-68e1a17ec4ad" name="Modifier les fiches clients" isLeaf="false" isStatic="false" isReadOnly="false" isDerived="false" isDerivedUnion="false" aggregation="None" isComposite="false">
+                  <elementDefinition Id="df22a856-29fa-4d74-b7e7-bc06d2f98f17" />
+                </memberEnd>
+              </associationHasOwnedEnds>
+            </relationshipOwnedElementsInternal>
+            <elementDefinition Id="b7b23df1-6cda-47b6-817a-766aee9c8b84" />
+          </association>
+          <association Id="c1a9397c-27bc-45e2-9f20-cafcdd2d3bef" isDerived="false" sourceEndRoleName="Employé" targetEndRoleName="Preter un document" isLeaf="false" isAbstract="false">
+            <useCaseMoniker Id="5741506f-17ff-4daf-9956-a5e37fd953dc" LastKnownName="Preter un document" />
+            <relationshipOwnedElementsInternal>
+              <associationHasOwnedEnds>
+                <memberEnd Id="65dcb74b-2bca-4361-a131-3f6e5acd0861" name="Employé" isLeaf="false" isStatic="false" isReadOnly="false" isDerived="false" isDerivedUnion="false" aggregation="None" isComposite="false" isNavigableOwned="false">
+                  <elementDefinition Id="727b7c0e-ec0c-4408-bf70-438f6c26940a" />
+                </memberEnd>
+              </associationHasOwnedEnds>
+              <associationHasOwnedEnds>
+                <memberEnd Id="f11f95b9-f201-4d77-8ca2-7a93a5846704" name="Preter un document" isLeaf="false" isStatic="false" isReadOnly="false" isDerived="false" isDerivedUnion="false" aggregation="None" isComposite="false">
+                  <elementDefinition Id="2f364cc2-5cdb-4e40-a207-be5e0af88119" />
+                </memberEnd>
+              </associationHasOwnedEnds>
+            </relationshipOwnedElementsInternal>
+            <elementDefinition Id="45bafeb9-129f-4839-a1a2-cf5c712777f5" />
+          </association>
+          <association Id="f0676474-ecd6-440e-96f7-26734d0eca7c" isDerived="false" sourceEndRoleName="Employé" targetEndRoleName="Modifier les fiches documents" isLeaf="false" isAbstract="false">
+            <useCaseMoniker Id="94ea9871-2a16-4f4f-a4c8-e1e5bf765e60" LastKnownName="Modifier les fiches documents" />
+            <relationshipOwnedElementsInternal>
+              <associationHasOwnedEnds>
+                <memberEnd Id="87822ce1-8d09-4b5a-a92f-8ebfe08cfdaf" name="Employé" isLeaf="false" isStatic="false" isReadOnly="false" isDerived="false" isDerivedUnion="false" aggregation="None" isComposite="false" isNavigableOwned="false">
+                  <elementDefinition Id="cd793595-7217-49a4-85de-5946d3c5cc1e" />
+                </memberEnd>
+              </associationHasOwnedEnds>
+              <associationHasOwnedEnds>
+                <memberEnd Id="e425e194-de4a-47ac-aa66-8592bdd6d6f2" name="Modifier les fiches documents" isLeaf="false" isStatic="false" isReadOnly="false" isDerived="false" isDerivedUnion="false" aggregation="None" isComposite="false">
+                  <elementDefinition Id="dcb88246-4ce3-41d5-a399-6fcb30e0f573" />
+                </memberEnd>
+              </associationHasOwnedEnds>
+            </relationshipOwnedElementsInternal>
+            <elementDefinition Id="3eafb29a-76f5-466a-874e-7be2853bad11" />
+          </association>
+          <association Id="f190e9ec-22eb-4649-8a88-605888d09f53" isDerived="false" sourceEndRoleName="Employé" targetEndRoleName="Enregistrer un nouvel usager" isLeaf="false" isAbstract="false">
+            <useCaseMoniker Id="dc53be47-3ff2-4059-ba77-89e27dbc0c17" LastKnownName="Enregistrer un nouvel usager" />
+            <relationshipOwnedElementsInternal>
+              <associationHasOwnedEnds>
+                <memberEnd Id="8da81e6d-49da-4220-8941-fc78f3e3973c" name="Employé" isLeaf="false" isStatic="false" isReadOnly="false" isDerived="false" isDerivedUnion="false" aggregation="None" isComposite="false" isNavigableOwned="false">
+                  <elementDefinition Id="f069e56f-08ce-410c-b008-9738fd459999" />
+                </memberEnd>
+              </associationHasOwnedEnds>
+              <associationHasOwnedEnds>
+                <memberEnd Id="cea85da4-22d9-47a4-8417-67e749c7c355" name="Enregistrer un nouvel usager" isLeaf="false" isStatic="false" isReadOnly="false" isDerived="false" isDerivedUnion="false" aggregation="None" isComposite="false">
+                  <elementDefinition Id="373267f3-c7b0-4382-9733-a5299ba494fc" />
+                </memberEnd>
+              </associationHasOwnedEnds>
+            </relationshipOwnedElementsInternal>
+            <elementDefinition Id="03176285-ed1a-466f-b5bc-45652eb7b157" />
+          </association>
+        </targetEnds>
+      </actor>
+    </useCaseModelRootHasTypes>
+    <useCaseModelRootHasTypes>
+      <actor Id="93ee3773-614c-4484-bd70-8cb06caeb388" name="Bénévole" isAbstract="false" isLeaf="false">
+        <elementDefinition Id="3b9ad12f-1be0-4bfd-9436-f7ae5619af1f" />
+        <targetEnds>
+          <association Id="c0a20097-bde3-4964-bd3a-9581b2206e86" isDerived="false" sourceEndRoleName="Bénévole" targetEndRoleName="Preter un document" isLeaf="false" isAbstract="false">
+            <useCaseMoniker Id="5741506f-17ff-4daf-9956-a5e37fd953dc" LastKnownName="Preter un document" />
+            <relationshipOwnedElementsInternal>
+              <associationHasOwnedEnds>
+                <memberEnd Id="8b142b8a-f474-41b0-a9a3-1b7a71fd568a" name="Bénévole" isLeaf="false" isStatic="false" isReadOnly="false" isDerived="false" isDerivedUnion="false" aggregation="None" isComposite="false" isNavigableOwned="false">
+                  <elementDefinition Id="c2f795ff-c365-4968-bcf4-0895b710945a" />
+                </memberEnd>
+              </associationHasOwnedEnds>
+              <associationHasOwnedEnds>
+                <memberEnd Id="3c552c91-8e6f-4e62-9bf5-8c1f5b9462f5" name="Preter un document" isLeaf="false" isStatic="false" isReadOnly="false" isDerived="false" isDerivedUnion="false" aggregation="None" isComposite="false">
+                  <elementDefinition Id="d89d2768-5abf-4aaf-8789-dd38b9408f08" />
+                </memberEnd>
+              </associationHasOwnedEnds>
+            </relationshipOwnedElementsInternal>
+            <elementDefinition Id="36f33c5a-7942-4281-8091-f7b3cb74ea37" />
+          </association>
+        </targetEnds>
+      </actor>
+    </useCaseModelRootHasTypes>
+    <useCaseModelRootHasTypes>
+      <useCase Id="dd72641a-5a34-4423-aef0-750d7c1edf10" name="Enregistrer un nouveau document" isAbstract="false" isLeaf="false">
+        <elementDefinition Id="5d544bb3-c1ad-40d6-b154-20282d1dbd39" />
+      </useCase>
+    </useCaseModelRootHasTypes>
+    <useCaseModelRootHasTypes>
+      <useCase Id="e610cff4-f435-4a35-b23d-393b1aa8796b" name="Consulter la liste des documents" isAbstract="false" isLeaf="false">
+        <elementDefinition Id="ac5b49f1-92cc-46f3-bf51-02d2d7d4b2c1" />
+      </useCase>
+    </useCaseModelRootHasTypes>
+    <useCaseModelRootHasTypes>
+      <useCase Id="56c1b14f-8f65-464c-8d38-8f0b4ddd9ec2" name="Modifier les fiches clients" isAbstract="false" isLeaf="false">
+        <elementDefinition Id="58dbf1b5-e8b2-45bb-837e-1bc37a791c65" />
+      </useCase>
+    </useCaseModelRootHasTypes>
+    <useCaseModelRootHasTypes>
+      <useCase Id="5741506f-17ff-4daf-9956-a5e37fd953dc" name="Preter un document" isAbstract="false" isLeaf="false">
+        <elementDefinition Id="e12162fb-34ea-4d1e-b265-03bebf343a27" />
+      </useCase>
+    </useCaseModelRootHasTypes>
+    <useCaseModelRootHasTypes>
+      <useCase Id="94ea9871-2a16-4f4f-a4c8-e1e5bf765e60" name="Modifier les fiches documents" isAbstract="false" isLeaf="false">
+        <elementDefinition Id="c4733961-a25c-4f98-84e6-5bf5f2c7313f" />
+      </useCase>
+    </useCaseModelRootHasTypes>
+    <useCaseModelRootHasTypes>
+      <useCase Id="dc53be47-3ff2-4059-ba77-89e27dbc0c17" name="Enregistrer un nouvel usager" isAbstract="false" isLeaf="false">
+        <elementDefinition Id="0a274ca7-5f40-416d-844a-aed7d8431d4e" />
+      </useCase>
+    </useCaseModelRootHasTypes>
+  </packagedElements>
+  <package Id="d556b1f5-c786-4bab-af9f-13509ae026d0" name="Cas_Mediatheque">
+    <elementDefinition Id="743bad99-e6d1-4b66-8567-bbb2d12f6250" />
+  </package>
+</useCaseModelRoot>

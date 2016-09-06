@@ -1,0 +1,9 @@
+J:\Formation\4 Dévolopper une application informatique\C - Composant WinForm\demoWinForm\demoWinForm\bin\Debug\demoWinForm.exe.config
+J:\Formation\4 Dévolopper une application informatique\C - Composant WinForm\demoWinForm\demoWinForm\bin\Debug\demoWinForm.exe
+J:\Formation\4 Dévolopper une application informatique\C - Composant WinForm\demoWinForm\demoWinForm\bin\Debug\demoWinForm.pdb
+J:\Formation\4 Dévolopper une application informatique\C - Composant WinForm\demoWinForm\demoWinForm\obj\Debug\demoWinForm.Properties.Resources.resources
+J:\Formation\4 Dévolopper une application informatique\C - Composant WinForm\demoWinForm\demoWinForm\obj\Debug\demoWinForm.csproj.GenerateResource.Cache
+J:\Formation\4 Dévolopper une application informatique\C - Composant WinForm\demoWinForm\demoWinForm\obj\Debug\demoWinForm.exe
+J:\Formation\4 Dévolopper une application informatique\C - Composant WinForm\demoWinForm\demoWinForm\obj\Debug\demoWinForm.pdb
+J:\Formation\4 Dévolopper une application informatique\C - Composant WinForm\demoWinForm\demoWinForm\obj\Debug\demoWinForm.Form1.resources
+J:\Formation\4 Dévolopper une application informatique\C - Composant WinForm\demoWinForm\demoWinForm\obj\Debug\demoWinForm.csprojResolveAssemblyReference.cache

@@ -1,0 +1,39 @@
+#vert{
+	display: inline-block;
+	position: absolute;
+	top : 0px;
+	left : 0px;
+	width: 70%;
+	height: 70%;
+	background-color: green;
+}
+
+#rouge{
+	display: inline-block;
+	position: absolute;
+	top: 0px;
+	right: 0px;
+	width: 30%;
+	height: 70%;
+	background-color: red;
+}
+
+#bleu{
+	display: inline-block;
+	position: absolute;
+	bottom: 0px;
+	left: 0px;
+	width: 70%;
+	height: 30%;
+	background-color: blue;
+}
+
+#jaune{
+	display: inline-block;
+	position: absolute;
+	bottom: 0px;
+	right: 0px;
+	width: 30%;
+	height: 30%;
+	background-color: yellow;
+}

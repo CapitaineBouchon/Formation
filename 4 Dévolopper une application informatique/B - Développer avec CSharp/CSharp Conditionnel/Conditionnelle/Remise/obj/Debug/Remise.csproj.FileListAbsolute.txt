@@ -1,0 +1,6 @@
+J:\Formation\4 Dévolopper une application informatique\B - Développer avec CSharp\Exercices\CSharp Conditionnel\Conditionnelle\Remise\bin\Debug\Remise.exe.config
+J:\Formation\4 Dévolopper une application informatique\B - Développer avec CSharp\Exercices\CSharp Conditionnel\Conditionnelle\Remise\bin\Debug\Remise.exe
+J:\Formation\4 Dévolopper une application informatique\B - Développer avec CSharp\Exercices\CSharp Conditionnel\Conditionnelle\Remise\bin\Debug\Remise.pdb
+J:\Formation\4 Dévolopper une application informatique\B - Développer avec CSharp\Exercices\CSharp Conditionnel\Conditionnelle\Remise\obj\Debug\Remise.csprojResolveAssemblyReference.cache
+J:\Formation\4 Dévolopper une application informatique\B - Développer avec CSharp\Exercices\CSharp Conditionnel\Conditionnelle\Remise\obj\Debug\Remise.exe
+J:\Formation\4 Dévolopper une application informatique\B - Développer avec CSharp\Exercices\CSharp Conditionnel\Conditionnelle\Remise\obj\Debug\Remise.pdb

@@ -1,0 +1,5 @@
+J:\Formation\4 Dévolopper une application informatique\B - Développer avec CSharp\Exercices\C# boucles\Boucles\Moyenne\bin\Debug\Moyenne.exe.config
+J:\Formation\4 Dévolopper une application informatique\B - Développer avec CSharp\Exercices\C# boucles\Boucles\Moyenne\bin\Debug\Moyenne.exe
+J:\Formation\4 Dévolopper une application informatique\B - Développer avec CSharp\Exercices\C# boucles\Boucles\Moyenne\bin\Debug\Moyenne.pdb
+J:\Formation\4 Dévolopper une application informatique\B - Développer avec CSharp\Exercices\C# boucles\Boucles\Moyenne\obj\Debug\Moyenne.exe
+J:\Formation\4 Dévolopper une application informatique\B - Développer avec CSharp\Exercices\C# boucles\Boucles\Moyenne\obj\Debug\Moyenne.pdb

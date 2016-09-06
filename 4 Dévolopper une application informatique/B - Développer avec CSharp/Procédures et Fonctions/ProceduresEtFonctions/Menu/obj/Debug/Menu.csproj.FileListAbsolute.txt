@@ -1,0 +1,6 @@
+J:\Formation\4 Dévolopper une application informatique\B - Développer avec CSharp\Exercices\Procédures et Fonctions\ProceduresEtFonctions\Menu\bin\Debug\Menu.exe.config
+J:\Formation\4 Dévolopper une application informatique\B - Développer avec CSharp\Exercices\Procédures et Fonctions\ProceduresEtFonctions\Menu\bin\Debug\Menu.exe
+J:\Formation\4 Dévolopper une application informatique\B - Développer avec CSharp\Exercices\Procédures et Fonctions\ProceduresEtFonctions\Menu\bin\Debug\Menu.pdb
+J:\Formation\4 Dévolopper une application informatique\B - Développer avec CSharp\Exercices\Procédures et Fonctions\ProceduresEtFonctions\Menu\obj\Debug\Menu.csprojResolveAssemblyReference.cache
+J:\Formation\4 Dévolopper une application informatique\B - Développer avec CSharp\Exercices\Procédures et Fonctions\ProceduresEtFonctions\Menu\obj\Debug\Menu.exe
+J:\Formation\4 Dévolopper une application informatique\B - Développer avec CSharp\Exercices\Procédures et Fonctions\ProceduresEtFonctions\Menu\obj\Debug\Menu.pdb

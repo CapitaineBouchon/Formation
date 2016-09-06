@@ -1,0 +1,5 @@
+J:\Formation\4 Dévolopper une application informatique\B - Développer avec CSharp\Exercices\C# boucles\Boucles\SommeEntiersInferieurs\bin\Debug\SommeEntiersInferieurs.exe.config
+J:\Formation\4 Dévolopper une application informatique\B - Développer avec CSharp\Exercices\C# boucles\Boucles\SommeEntiersInferieurs\bin\Debug\SommeEntiersInferieurs.exe
+J:\Formation\4 Dévolopper une application informatique\B - Développer avec CSharp\Exercices\C# boucles\Boucles\SommeEntiersInferieurs\bin\Debug\SommeEntiersInferieurs.pdb
+J:\Formation\4 Dévolopper une application informatique\B - Développer avec CSharp\Exercices\C# boucles\Boucles\SommeEntiersInferieurs\obj\Debug\SommeEntiersInferieurs.exe
+J:\Formation\4 Dévolopper une application informatique\B - Développer avec CSharp\Exercices\C# boucles\Boucles\SommeEntiersInferieurs\obj\Debug\SommeEntiersInferieurs.pdb

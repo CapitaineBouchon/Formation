@@ -1,0 +1,9 @@
+J:\Formation\4 Dévolopper une application informatique\B - Développer avec CSharp\Exercices\C# boucles\Boucles\NombreMagique\bin\Debug\NombreMagique.exe.config
+J:\Formation\4 Dévolopper une application informatique\B - Développer avec CSharp\Exercices\C# boucles\Boucles\NombreMagique\bin\Debug\NombreMagique.exe
+J:\Formation\4 Dévolopper une application informatique\B - Développer avec CSharp\Exercices\C# boucles\Boucles\NombreMagique\bin\Debug\NombreMagique.pdb
+J:\Formation\4 Dévolopper une application informatique\B - Développer avec CSharp\Exercices\C# boucles\Boucles\NombreMagique\obj\Debug\NombreMagique.csprojResolveAssemblyReference.cache
+J:\Formation\4 Dévolopper une application informatique\B - Développer avec CSharp\Exercices\C# boucles\Boucles\NombreMagique\obj\Debug\NombreMagique.exe
+J:\Formation\4 Dévolopper une application informatique\B - Développer avec CSharp\Exercices\C# boucles\Boucles\NombreMagique\obj\Debug\NombreMagique.pdb
+J:\Formation\4 Dévolopper une application informatique\B - Développer avec CSharp\C# boucles\Boucles\NombreMagique\bin\Debug\NombreMagique.exe.config
+J:\Formation\4 Dévolopper une application informatique\B - Développer avec CSharp\C# boucles\Boucles\NombreMagique\obj\Debug\NombreMagique.exe
+J:\Formation\4 Dévolopper une application informatique\B - Développer avec CSharp\C# boucles\Boucles\NombreMagique\obj\Debug\NombreMagique.pdb

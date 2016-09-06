@@ -1,0 +1,5 @@
+J:\Formation\4 Dévolopper une application informatique\B - Développer avec CSharp\Exercices\CSharp Conditionnel\Conditionnelle\Calculette\bin\Debug\Calculette.exe.config
+J:\Formation\4 Dévolopper une application informatique\B - Développer avec CSharp\Exercices\CSharp Conditionnel\Conditionnelle\Calculette\bin\Debug\Calculette.exe
+J:\Formation\4 Dévolopper une application informatique\B - Développer avec CSharp\Exercices\CSharp Conditionnel\Conditionnelle\Calculette\bin\Debug\Calculette.pdb
+J:\Formation\4 Dévolopper une application informatique\B - Développer avec CSharp\Exercices\CSharp Conditionnel\Conditionnelle\Calculette\obj\Debug\Calculette.exe
+J:\Formation\4 Dévolopper une application informatique\B - Développer avec CSharp\Exercices\CSharp Conditionnel\Conditionnelle\Calculette\obj\Debug\Calculette.pdb

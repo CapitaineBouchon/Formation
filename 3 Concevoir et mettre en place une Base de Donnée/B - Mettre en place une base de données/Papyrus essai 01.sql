@@ -1,0 +1,73 @@
+CREATE DATABASE Papyrus
+GO
+
+USE Papyrus
+GO
+CREATE SCHEMA stg04
+
+CREATE TABLE stg04.produit (
+	codArt CHAR(4) PRIMARY KEY NOT NULL,
+	libArt VARCHAR(30) NOT NULL,
+	stkLe INT NOT NULL,
+	stkPhy INT NOT NULL,
+	qteAnn INT NOT NULL,
+	uniMes CHAR(5) NOT NULL
+)
+
+CREATE TABLE stg04.entcom (
+	numCom INT IDENTITY (1,1) PRIMARY KEY NOT NULL,
+	obsCom VARCHAR(50),
+	datCom SMALLDATETIME NOT NULL DEFAULT GETDATE(),
+	numFou INT DEFAULT NULL /*clé étrangère*/
+)
+
+CREATE TABLE stg04.ligcom (
+	numCom INT NOT NULL, /*clé étrangère*/
+	numLig TINYINT NOT NULL, /*clé étrangère*/
+	codArt CHAR(4) NOT NULL,
+	qteCde INT NOT NULL,
+	priUni SMALLMONEY NOT NULL,
+	qteLiv INT,
+	derLiv SMALLDATETIME NOT NULL,
+	PRIMARY KEY (NumCom, numLig)
+)
+
+CREATE TABLE stg04.fournis (
+	numFou INT PRIMARY KEY NOT NULL,
+	nomFou VARCHAR(50) NOT NULL,
+	rueFou VARCHAR(50) NOT NULL,
+	posFou CHAR(5) NOT NULL,
+	vilFou VARCHAR(30) NOT NULL,
+	conFou VARCHAR(15) NOT NULL,
+	satisf TINYINT CHECK ( satisf BETWEEN 1 AND 10 )
+)
+
+CREATE TABLE stg04.vente (
+	codArt CHAR(4) NOT NULL, /*clé étrangère*/
+	numFou INT NOT NULL, /*clé étrangère*/
+	delliv SMALLINT NOT NULL,
+	qte1 INT NOT NULL,
+	prix1 SMALLMONEY NOT NULL,
+	qte2 INT,
+	prix2 SMALLMONEY,
+	qte3 INT,
+	prix3 SMALLMONEY
+	PRIMARY KEY (codArt, numFou)
+)
+GO
+
+ALTER TABLE stg04.entcom ADD 
+	FOREIGN KEY (numFou) REFERENCES stg04.fournis(numFou) --ON DELETE NO ACTION ON UPDATE CASCADE
+
+ALTER TABLE stg04.ligcom ADD 
+	FOREIGN KEY (numCom) REFERENCES stg04.entcom(numCom), --ON DELETE NO ACTION ON UPDATE CASCADE
+	FOREIGN KEY (codArt) REFERENCES stg04.produit(codArt) --ON DELETE NO ACTION ON UPDATE CASCADE
+
+ALTER TABLE stg04.vente ADD 
+	FOREIGN KEY (numFou) REFERENCES stg04.fournis(numFou), --ON DELETE NO ACTION ON UPDATE CASCADE
+	FOREIGN KEY (codArt) REFERENCES stg04.produit(codArt) --ON DELETE NO ACTION ON UPDATE CASCADE
+
+GO
+
+CREATE INDEX numFou_entCom ON stg04.entcom (numFou)
+GO

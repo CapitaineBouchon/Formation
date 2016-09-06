@@ -1,0 +1,6 @@
+J:\Formation\4 Dévolopper une application informatique\B - Développer avec CSharp\Exercices\CSharp Conditionnel\Conditionnelle\Participation\bin\Debug\Participation.exe.config
+J:\Formation\4 Dévolopper une application informatique\B - Développer avec CSharp\Exercices\CSharp Conditionnel\Conditionnelle\Participation\bin\Debug\Participation.exe
+J:\Formation\4 Dévolopper une application informatique\B - Développer avec CSharp\Exercices\CSharp Conditionnel\Conditionnelle\Participation\bin\Debug\Participation.pdb
+J:\Formation\4 Dévolopper une application informatique\B - Développer avec CSharp\Exercices\CSharp Conditionnel\Conditionnelle\Participation\obj\Debug\Participation.csprojResolveAssemblyReference.cache
+J:\Formation\4 Dévolopper une application informatique\B - Développer avec CSharp\Exercices\CSharp Conditionnel\Conditionnelle\Participation\obj\Debug\Participation.exe
+J:\Formation\4 Dévolopper une application informatique\B - Développer avec CSharp\Exercices\CSharp Conditionnel\Conditionnelle\Participation\obj\Debug\Participation.pdb

@@ -1,0 +1,6 @@
+J:\Formation\4 Dévolopper une application informatique\B - Développer avec CSharp\Exercices\ExercicesCSharp\Exercice1\bin\Debug\Exercice1.exe.config
+J:\Formation\4 Dévolopper une application informatique\B - Développer avec CSharp\Exercices\ExercicesCSharp\Exercice1\bin\Debug\Exercice1.exe
+J:\Formation\4 Dévolopper une application informatique\B - Développer avec CSharp\Exercices\ExercicesCSharp\Exercice1\bin\Debug\Exercice1.pdb
+J:\Formation\4 Dévolopper une application informatique\B - Développer avec CSharp\Exercices\ExercicesCSharp\Exercice1\obj\Debug\Exercice1.csprojResolveAssemblyReference.cache
+J:\Formation\4 Dévolopper une application informatique\B - Développer avec CSharp\Exercices\ExercicesCSharp\Exercice1\obj\Debug\Exercice1.exe
+J:\Formation\4 Dévolopper une application informatique\B - Développer avec CSharp\Exercices\ExercicesCSharp\Exercice1\obj\Debug\Exercice1.pdb

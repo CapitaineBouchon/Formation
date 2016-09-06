@@ -1,0 +1,6 @@
+J:\Formation\4 Dévolopper une application informatique\B - Développer avec CSharp\Exercices\C# boucles\Boucles\CalculPopulation\bin\Debug\CalculPopulation.exe.config
+J:\Formation\4 Dévolopper une application informatique\B - Développer avec CSharp\Exercices\C# boucles\Boucles\CalculPopulation\bin\Debug\CalculPopulation.exe
+J:\Formation\4 Dévolopper une application informatique\B - Développer avec CSharp\Exercices\C# boucles\Boucles\CalculPopulation\bin\Debug\CalculPopulation.pdb
+J:\Formation\4 Dévolopper une application informatique\B - Développer avec CSharp\Exercices\C# boucles\Boucles\CalculPopulation\obj\Debug\CalculPopulation.csprojResolveAssemblyReference.cache
+J:\Formation\4 Dévolopper une application informatique\B - Développer avec CSharp\Exercices\C# boucles\Boucles\CalculPopulation\obj\Debug\CalculPopulation.exe
+J:\Formation\4 Dévolopper une application informatique\B - Développer avec CSharp\Exercices\C# boucles\Boucles\CalculPopulation\obj\Debug\CalculPopulation.pdb

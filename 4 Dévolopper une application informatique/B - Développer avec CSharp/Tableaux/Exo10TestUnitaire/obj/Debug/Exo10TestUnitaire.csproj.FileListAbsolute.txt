@@ -1,0 +1,1 @@
+J:\Formation\4 Dévolopper une application informatique\B - Développer avec CSharp\Tableaux\Exo10TestUnitaire\obj\Debug\Exo10TestUnitaire.csprojResolveAssemblyReference.cache

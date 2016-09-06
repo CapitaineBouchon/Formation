@@ -1,0 +1,9 @@
+J:\Formation\4 Dévolopper une application informatique\B - Développer avec CSharp\Exercices\CSharp Conditionnel\Conditionnelle\Age\bin\Debug\Age.exe.config
+J:\Formation\4 Dévolopper une application informatique\B - Développer avec CSharp\Exercices\CSharp Conditionnel\Conditionnelle\Age\bin\Debug\Age.exe
+J:\Formation\4 Dévolopper une application informatique\B - Développer avec CSharp\Exercices\CSharp Conditionnel\Conditionnelle\Age\bin\Debug\Age.pdb
+J:\Formation\4 Dévolopper une application informatique\B - Développer avec CSharp\Exercices\CSharp Conditionnel\Conditionnelle\Age\obj\Debug\Age.exe
+J:\Formation\4 Dévolopper une application informatique\B - Développer avec CSharp\Exercices\CSharp Conditionnel\Conditionnelle\Age\obj\Debug\Age.pdb
+J:\Formation\4 Dévolopper une application informatique\B - Développer avec CSharp\Exercices\CSharp Conditionnel\Conditionnelle\Age\obj\Debug\Age.csprojResolveAssemblyReference.cache
+J:\Formation\4 Dévolopper une application informatique\B - Développer avec CSharp\CSharp Conditionnel\Conditionnelle\Age\bin\Debug\Age.exe.config
+J:\Formation\4 Dévolopper une application informatique\B - Développer avec CSharp\CSharp Conditionnel\Conditionnelle\Age\obj\Debug\Age.exe
+J:\Formation\4 Dévolopper une application informatique\B - Développer avec CSharp\CSharp Conditionnel\Conditionnelle\Age\obj\Debug\Age.pdb

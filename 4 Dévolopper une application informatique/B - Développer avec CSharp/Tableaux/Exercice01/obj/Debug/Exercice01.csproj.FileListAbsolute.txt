@@ -1,0 +1,15 @@
+J:\Formation\4 Dévolopper une application informatique\B - Développer avec CSharp\Exercices\Tableaux\Exercice01\bin\Debug\Exercice01.exe.config
+J:\Formation\4 Dévolopper une application informatique\B - Développer avec CSharp\Exercices\Tableaux\Exercice01\bin\Debug\Exercice01.exe
+J:\Formation\4 Dévolopper une application informatique\B - Développer avec CSharp\Exercices\Tableaux\Exercice01\bin\Debug\Exercice01.pdb
+J:\Formation\4 Dévolopper une application informatique\B - Développer avec CSharp\Exercices\Tableaux\Exercice01\obj\Debug\Exercice01.csprojResolveAssemblyReference.cache
+J:\Formation\4 Dévolopper une application informatique\B - Développer avec CSharp\Exercices\Tableaux\Exercice01\obj\Debug\Exercice01.exe
+J:\Formation\4 Dévolopper une application informatique\B - Développer avec CSharp\Exercices\Tableaux\Exercice01\obj\Debug\Exercice01.pdb
+J:\Formation\4 Dévolopper une application informatique\B - Développer avec CSharp\Tableaux\Exercice01\bin\Debug\Exercice01.exe.config
+J:\Formation\4 Dévolopper une application informatique\B - Développer avec CSharp\Tableaux\Exercice01\obj\Debug\Exercice01.exe
+J:\Formation\4 Dévolopper une application informatique\B - Développer avec CSharp\Tableaux\Exercice01\obj\Debug\Exercice01.pdb
+J:\Formation\4 Dévolopper une application informatique\B - Développer avec CSharp\Tableaux\Exercice01\obj\Debug\Exercice01.csprojResolveAssemblyReference.cache
+J:\Formation\4 Dévolopper une application informatique\B - Développer avec CSharp\Tableaux\Exercice01\bin\Debug\Exercice01.exe
+J:\Formation\4 Dévolopper une application informatique\B - Développer avec CSharp\Tableaux\Exercice01\bin\Debug\Exercice01.pdb
+E:\Formation\4 Dévolopper une application informatique\B - Développer avec CSharp\Tableaux\Exercice01\bin\Debug\Exercice01.exe.config
+E:\Formation\4 Dévolopper une application informatique\B - Développer avec CSharp\Tableaux\Exercice01\obj\Debug\Exercice01.exe
+E:\Formation\4 Dévolopper une application informatique\B - Développer avec CSharp\Tableaux\Exercice01\obj\Debug\Exercice01.pdb

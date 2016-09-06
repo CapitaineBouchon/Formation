@@ -1,0 +1,9 @@
+J:\Formation\4 Dévolopper une application informatique\B - Développer avec CSharp\Exercices\Procédures et Fonctions\ProceduresEtFonctions\StringToken\bin\Debug\StringToken.exe.config
+J:\Formation\4 Dévolopper une application informatique\B - Développer avec CSharp\Exercices\Procédures et Fonctions\ProceduresEtFonctions\StringToken\bin\Debug\StringToken.exe
+J:\Formation\4 Dévolopper une application informatique\B - Développer avec CSharp\Exercices\Procédures et Fonctions\ProceduresEtFonctions\StringToken\bin\Debug\StringToken.pdb
+J:\Formation\4 Dévolopper une application informatique\B - Développer avec CSharp\Exercices\Procédures et Fonctions\ProceduresEtFonctions\StringToken\obj\Debug\StringToken.exe
+J:\Formation\4 Dévolopper une application informatique\B - Développer avec CSharp\Exercices\Procédures et Fonctions\ProceduresEtFonctions\StringToken\obj\Debug\StringToken.pdb
+J:\Formation\4 Dévolopper une application informatique\B - Développer avec CSharp\Exercices\Procédures et Fonctions\ProceduresEtFonctions\StringToken\obj\Debug\StringToken.csprojResolveAssemblyReference.cache
+E:\Formation\4 Dévolopper une application informatique\B - Développer avec CSharp\Procédures et Fonctions\ProceduresEtFonctions\StringToken\bin\Debug\StringToken.exe.config
+E:\Formation\4 Dévolopper une application informatique\B - Développer avec CSharp\Procédures et Fonctions\ProceduresEtFonctions\StringToken\obj\Debug\StringToken.exe
+E:\Formation\4 Dévolopper une application informatique\B - Développer avec CSharp\Procédures et Fonctions\ProceduresEtFonctions\StringToken\obj\Debug\StringToken.pdb

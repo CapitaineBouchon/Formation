@@ -1,0 +1,229 @@
+//Exercice 6.1
+Tableau nb(6) en Numerique
+Variable i en Entier
+Debut
+	i ← 0
+	Pour i ← 0 à 6
+		nb(i) ← 0
+	i Suivant
+Fin
+
+//Exercice 6.2
+Tableau nb(5) en Caractere
+Debut
+	nb(0) ← a
+	nb(1) ← e
+	nb(2) ← i
+	nb(3) ← o
+	nb(4) ← u
+	nb(5) ← y
+Fin
+
+//Exercice 6.3
+Tableau nb(8) en Numerique
+Variable i, note en Entier
+Debut
+	i ← 0
+	note ← 1
+	Pour i ← 0 à 8
+		Ecrire "Ecrivez la note numero " , note , " : "
+		Lire nb(i)
+		note ← note + 1
+	i Suivant
+Fin
+
+/Exercice 6.4
+Tableau Nb(5) en Entier
+Variable i en Entier
+Debut
+	Pour i ← 0 à 5            //Le tableau va stocker la valeur au carré de son emplacement puis l'afficher à l'utilisateur
+ 	 Nb(i) ← i * i
+  	Ecrire Nb(i)
+	i suivant
+Fin
+
+
+/Exercice 6.5
+Tableau N(6) en Entier   //Le tableau affichera 1, 3, 5, 7, 9, 11, 13
+Variables k en Entier
+Début
+N(0) ← 1
+Pour k ← 1 à 6
+  N(k) ← N(k-1) + 2
+  Ecrire N(k)
+k suivant
+Fin
+
+
+/Exercice 6.6
+Tableau Suite(7) en Entier   // Le tableau contiendra 1, 1, 2, 3, 5, 8, 13, 21
+Variable i en Entier
+Debut
+	Suite(0) ← 1
+	Suite(1) ← 1
+	Pour i ← 2 à 7
+		Suite(i) ← Suite(i-1) + Suite(i-2)
+		Ecrire Suite(i)
+	i suivant
+Fin
+
+/Exercice 6.7
+Tableau nb(8) en Numerique
+Variable i, note, moyenne en Entier
+Debut
+	i ← 0
+	note ← 1
+	Pour i ← 0 à 8
+		Ecrire "Ecrivez la note numero " , note , " : "
+		Lire nb(i)
+		note ← note + 1
+		moyenne ← moyenne + nb(i)
+	i Suivant
+	moyenne ← moyenne / i
+	Ecrire "La moyenne est de :" , moyenne
+Fin
+
+/Exercice 6.8
+Tableau tb() en Numerique
+Variable i, val, nbneg, nbpos, nbnul en Entier
+Debut
+	Ecrire "Combien de valeurs voulez-vous saisir ? "
+	Lire val
+	Redim tb(val-1)
+	i ← 0
+	Pour i ← 0 à val - 1
+		Ecrire "Entrez la valeur " , i + 1 " : "
+		Lire tb(i)
+		Si tb(i) > 0 Alors
+			nbpos ← nbpos + 1
+		Sinon
+			Si tb(i) < 0 Alors
+				nbneg ← nbneg + 1
+			Sinon
+				nbnul ← nbnul + 1
+			FinSi
+		FinSi
+	i Suivant
+	Ecrire "Il y a dans le tableau " , nbpos , " valeurs positives, " , nbneg , " valeurs négatives et " , nbnul , " valeurs nulles."
+Fin
+
+/Exercice 6.9
+Tableau tb() en Numerique
+Variable i, somme, val en Entier
+Debut
+	Ecrire "Combien de valeurs voulez-vous entrer ? "
+	Lire val
+	Redim tb(val-1)
+	i ← 0
+	Pour i ← 0 à val-1
+		somme ← somme + tb(i)
+	i Suivant
+	Ecrire "La somme du tableau est de " , somme
+Fin
+
+
+/Exercice 6.10
+Tableau tb1(), tb2(), tb3() en Entier
+Variable i, val en Entier
+Debut
+	Ecrire "Combien de valeurs voulez-vous saisir pour les 3 tableaux ? "
+	Lire val
+	Redim tb1(val-1)
+	Redim tb2(val-1)
+	Redim tb3(val-1)
+	i ← 0
+	Pour i ← 0 à (val-1)
+		tb3(i) ← tb1(i) + tb2(i)
+	i Suivant
+Fin  
+
+
+/Exercice 6.11
+Tableau tb1(), tb2() en Entier
+Variable smurf, i1, i2, val1, val2 en Entier
+Debut
+	Ecrire "Combien de valeurs pour le 1er tableau ? "
+	Lire val1
+	Redim tb1(val-1)
+	Ecrire "Combien de valeurs pour le 2eme tableau ? "
+	Lire val2
+	Redim tb2(val-1)
+	i1 ← 0
+	i2 ← 0
+	Pour i1 ← 0 à val1-1
+		Pour i2 ← 0 à val-1
+			smurf ← smurf + (tb1(i1) * tb2(i2))
+		i Suivant
+	i Suivant
+	Ecrire "Le schtroumpf est de " , smurf , "."
+Fin
+
+/Exercice 6.12
+Tableau tb1(), tb2() en Numerique
+Variable val, i en Entier
+Debut
+	Ecrire Ecrire "Combien de valeurs pour le tableau ? "
+	Lire val
+	Redim tb1(val-1)
+	Redim tb2(val-1)
+	i ← 0
+	Ecrire "Entrez les valaurs du tableau : "
+	Pour i ← 0 à val-1
+		Lire tb1(i)
+		tb2(i) ← tb1(i) + 1
+	i Suivant
+	Ecrire "Les valeurs du nouveau tableau sont : "
+	i ← 0
+	Pour i ← 0 val-1
+		Ecrire tb2(i), ", "
+	i Suivant
+Fin
+
+
+/Exercice 6.13
+Tableau tb() en Numerique
+Variable i, val, nbmax, posmax en Entier
+Debut
+	Ecrire "Combien de valeurs voulez-vous entrer ? "
+	Lire val
+	Redim tb(val-1)
+	i ← 0
+	Ecrire "Entrez les valeurs du tableau : "
+	Pour i ← 0 à val-1
+		Lire tb(i)
+	i Suivant
+	i ← 0
+	Pour i ← 0 à val-1	
+		Si tb(i) > nbmax Alors
+			nbmax ← tb(i)
+			posmax ← i+1
+		FinSi
+	i Suivant
+	Ecrire "Le Plus grand des nombres est : " , nbmax , ", C'était le nombre numéro " , posmax , " dans le tableau."
+Fin
+
+/Exercice 6.14
+Tableau tb() en Numerique
+Variable i, val, moy, notesup en Numerique
+Debut
+	Ecrire "Combien de valeurs voulez-vous entrer ? "
+	Lire val
+	Redim tb(val-1)
+	i ← 0
+	moy ← 0
+	Pour i ← 0 à val-1
+		Ecrire "Ecrivez la note numéro " , i+1 , " : "
+		Lire tb(i)
+		moy ← moy + tb(i)
+	i Suivant
+	moy ← moy / val
+	i ← 0
+	notesup ← 0
+	Pour i ← 0 à val-1
+		Si tb(i) > moy Alors
+			notesup ← notesup + 1
+		FinSi
+	i Suivant
+	Ecrire "Le nombre d'étudiants dont la note est supérieur à la moyenne de " , moy , " est de " , notesup , "."
+Fin
+

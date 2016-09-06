@@ -1,0 +1,5 @@
+J:\Formation\4 Dévolopper une application informatique\B - Développer avec CSharp\Exercices\Procédures et Fonctions\ProceduresEtFonctions\Factorielle\bin\Debug\Factorielle.exe.config
+J:\Formation\4 Dévolopper une application informatique\B - Développer avec CSharp\Exercices\Procédures et Fonctions\ProceduresEtFonctions\Factorielle\bin\Debug\Factorielle.exe
+J:\Formation\4 Dévolopper une application informatique\B - Développer avec CSharp\Exercices\Procédures et Fonctions\ProceduresEtFonctions\Factorielle\bin\Debug\Factorielle.pdb
+J:\Formation\4 Dévolopper une application informatique\B - Développer avec CSharp\Exercices\Procédures et Fonctions\ProceduresEtFonctions\Factorielle\obj\Debug\Factorielle.exe
+J:\Formation\4 Dévolopper une application informatique\B - Développer avec CSharp\Exercices\Procédures et Fonctions\ProceduresEtFonctions\Factorielle\obj\Debug\Factorielle.pdb

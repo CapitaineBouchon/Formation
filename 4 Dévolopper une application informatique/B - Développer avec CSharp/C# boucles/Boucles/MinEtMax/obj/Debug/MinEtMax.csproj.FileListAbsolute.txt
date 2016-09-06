@@ -1,0 +1,5 @@
+J:\Formation\4 Dévolopper une application informatique\B - Développer avec CSharp\Exercices\C# boucles\Boucles\MinEtMax\bin\Debug\MinEtMax.exe.config
+J:\Formation\4 Dévolopper une application informatique\B - Développer avec CSharp\Exercices\C# boucles\Boucles\MinEtMax\bin\Debug\MinEtMax.exe
+J:\Formation\4 Dévolopper une application informatique\B - Développer avec CSharp\Exercices\C# boucles\Boucles\MinEtMax\bin\Debug\MinEtMax.pdb
+J:\Formation\4 Dévolopper une application informatique\B - Développer avec CSharp\Exercices\C# boucles\Boucles\MinEtMax\obj\Debug\MinEtMax.exe
+J:\Formation\4 Dévolopper une application informatique\B - Développer avec CSharp\Exercices\C# boucles\Boucles\MinEtMax\obj\Debug\MinEtMax.pdb

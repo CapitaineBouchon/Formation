@@ -1,0 +1,220 @@
+//Exercice 5.1
+Variable nb en Numerique
+Debut
+	nb ← 0
+	Ecrire "Entrez un nombre entre 1 et 3 : "
+	TantQue nb < 1 OU nb > 3
+		Lire nb
+		Si nb < 1 OU nb > 3 Alors
+			Ecrire "Saisie Erronnée, veuillez recommencez."
+		Sinon
+			Ecrire "Bravo, vous savez suivre les consignes."
+		FinSi
+	FinTantQue
+Fin
+
+
+//Exercice 5.2
+Variable nb en Numerique
+Debut
+	nb ← 0
+	TantQue nb < 10 OU nb > 20
+		Lire nb
+		Si nb < 10 Alors
+			Ecrire "Plus grand !"
+		Sinon
+			Si nb > 20 Alors
+				Ecrire "Plus petit !"
+			Sinon
+				Ecrire "Félicitation, vous savez suivre les consignes."
+			FinSi
+		FinSi
+	FinTantQue
+Fin
+
+
+
+//Exercice 5.3
+Variable nb, nbDepart en Numerique
+Debut
+	nb ← 0
+	Ecrire "Entrez une valeur : "
+	Lire nb
+	Ecrire "Les dix nombres suivant sont : "
+	TantQue nbDepart + 10 <> nb
+		nbDepart ← nb
+		Si nbDepart + 10 <> nb
+			Ecrire nb
+			nb ← nb + 1
+		FinSi
+	FinTantQue
+Fin
+
+
+//Exercice 5.4
+Variable nb en Numerique
+	nb ← 0
+	Ecrire "Entrez une valeur : "
+	Lire nb
+	Ecrire "Les dix nombres suivant sont : "
+	Pour nb ← nb à (nb + 10)
+		Ecrire nb
+	nb Suivant
+Fin
+
+
+//Exercice 5.5
+Variable nb, tb, to en Entier
+Debut
+	nb ← 0
+	Ecrire "Entrez une valeur : "
+	Lire nb
+	Ecrire "Table de " , nb , " :"
+	TantQue  tb < 10
+		to ← nb * tb
+		Ecrire nb , " x " , tb , " = " , to
+		tb ← tb + 1 
+	FinTantQue
+Fin
+
+
+//Exercice 5.6
+Variable nb, inc, to en Entier
+Debut
+	nb ← 0
+	inc ← 0
+	to ← 0
+	Ecrire "Entrez une valeur : "
+	TantQue nb <> inc
+		inc ← inc + 1
+		to ← to + inc
+	FinTantQue 
+	Ecrire "La somme des entiers de 1 à " , nb , "est de " , to
+Fin
+
+
+//Exercice 5.7
+Variable nb, inc, to en Entier
+Debut
+	nb ← 0
+	inc ← 0
+	to ← 1
+	Ecrire "Entrez une valeur : "
+	TantQue nb <> inc
+		inc ← inc + 1
+		to ← to * inc
+	FinTantQue 
+	Ecrire "La factorielle de " , nb , "est de " , "to"
+Fin 
+
+
+//Exercice 5.8
+Variable nb, tour, max, tourmax en Entier
+Debut
+	nb ← 0
+	tour ← 1
+	max ← 0
+	tourmax ← 0
+	TantQue tour < 20
+		Ecrire "Entrez le nombre numéro " , tour , " : "
+		Lire nb
+		Si nb > max Alors
+			max ← nb
+			tourmax ← tour
+		FinSi
+		tour ← tour + 1
+	FinTantQue
+	Ecrire "Le Plus grand de ces nombres est : " , max , ", C'était le nombre numéro " , "tourmax"
+Fin
+
+//Exercice 5.9
+Variable nb, tour, max, tourmax en Entier
+Debut
+	nb ← 1
+	tour ← 1
+	max ← 0
+	tourmax ← 1
+	TantQue nb <> 0
+		Ecrire "Entrez le nombre numéro " , tour , " (tapez 0 pour arrêter) : "
+		Lire nb
+		Si nb > max Alors
+ 			max ← nb
+			tourmax ← tour
+		FinSi
+		tour ← tour + 1
+	FinTantQue
+	Ecrire "Le Plus grand de ces nombres est : " , max , ", C'était le nombre numéro " , "tourmax"
+Fin
+
+//Exercice 5.10
+Variable prix, somme, monnaie, tour en Entier
+	prix ← 0
+	somme ← 0
+	monnaie ← 0
+	tour ← 1
+	TantQue prix <> 0
+		Ecrire "Entrez le prix de l'article numéro " , tour , " : "
+		Lire prix
+		somme ← somme + prix
+		tour ← tour + 1
+	FinTantQue
+	Ecrire "Somme à payer : " , somme
+	Ecrire "Combien donnez-vous ?"
+	TantQue monnaie < somme
+		Lire monnaie
+		Si monnaie < somme Alors
+			Ecrire "Il n'y aura pas assez pour tout payer."
+		FinSi
+	FinTantQue
+	TantQue monnaie <> 0
+		TantQue monnaie - 10 > 0
+			Ecrire "Rendu 10 Euros"
+			monnaie ← monnaie - 10
+		FinTantQue
+		TantQue monnaie - 5 > 0
+			Ecrire "Rendu 5 Euros"
+			monnaie ← monnaie - 5
+		FinTantQue
+		TantQue monnaie - 1 > 0 
+			Ecrire "Rendu 1 Euro"
+			monnaie ← monnaie - 1
+		FinTantQue
+	FinTantQue
+Fin
+
+//Exercice 5.11
+Variable nbdada, nbjou, ordre, desordre, facdada, facjou, facdajou, incdada, incjou, incdajou en Numerique
+Debut
+	incdada ← 1
+	incjou ← 1
+	incdajou ← 1
+	facdada ← 1
+	facjou ← 1
+	facdajou ← 1
+	Ecrire "Nombre de cheveaux partant : "
+	Lire nbdada
+	Ecrire "Nombre de cheveaux joués : "
+	Lire nbjou
+	TantQue incdada <> nbdada
+		facdada ← facdada * incdada
+		incdada ← incdada +1
+	FinTantQue
+	TantQue incjou <> nbjou
+		facjou ← facjou * incjou
+		incjou ← incjou + 1
+	FinTantQue
+	TantQue incdajou <> (nbdada - nbjou)
+		facdajou ← facdajou * incdajou
+		incdajou ← incdajou + 1
+	FinTantQue
+	ordre ← facdada / facdajou
+	desordre ← facdada / (facjou * facdajou)
+	Ecrire "Dans l'ordre : une chance sur " , ordre , " de gagner."
+	Ecrire "Dans le désordre : une chance sur " , desordre , " de gagner."
+Fin
+
+
+
+
+
+

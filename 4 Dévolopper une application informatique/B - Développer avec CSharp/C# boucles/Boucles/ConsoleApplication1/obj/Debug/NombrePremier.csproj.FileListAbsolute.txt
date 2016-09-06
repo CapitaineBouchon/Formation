@@ -1,0 +1,9 @@
+J:\Formation\4 Dévolopper une application informatique\B - Développer avec CSharp\Exercices\C# boucles\Boucles\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+J:\Formation\4 Dévolopper une application informatique\B - Développer avec CSharp\Exercices\C# boucles\Boucles\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+J:\Formation\4 Dévolopper une application informatique\B - Développer avec CSharp\Exercices\C# boucles\Boucles\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+J:\Formation\4 Dévolopper une application informatique\B - Développer avec CSharp\Exercices\C# boucles\Boucles\ConsoleApplication1\obj\Debug\NombrePremier.csprojResolveAssemblyReference.cache
+J:\Formation\4 Dévolopper une application informatique\B - Développer avec CSharp\Exercices\C# boucles\Boucles\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+J:\Formation\4 Dévolopper une application informatique\B - Développer avec CSharp\Exercices\C# boucles\Boucles\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+J:\Formation\4 Dévolopper une application informatique\B - Développer avec CSharp\C# boucles\Boucles\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+J:\Formation\4 Dévolopper une application informatique\B - Développer avec CSharp\C# boucles\Boucles\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+J:\Formation\4 Dévolopper une application informatique\B - Développer avec CSharp\C# boucles\Boucles\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
